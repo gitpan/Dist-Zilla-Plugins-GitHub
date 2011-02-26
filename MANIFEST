@@ -1,0 +1,15 @@
+Changes
+LICENSE
+MANIFEST
+META.json
+META.yml
+Makefile.PL
+README
+dist.ini
+lib/Dist/Zilla/Plugin/GitHub.pm
+lib/Dist/Zilla/Plugin/GitHub/Create.pm
+lib/Dist/Zilla/Plugin/GitHub/Update.pm
+t/00-load.t
+t/boilerplate.t
+t/manifest.t
+t/pod.t
